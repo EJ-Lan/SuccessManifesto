@@ -11,5 +11,5 @@ email.set_content('test text')
 with smtplib.SMTP(host='smtp.gmail.com', port=587) as smtp:
     smtp.ehlo()
     smtp.starttls()
-    smtp.login('dummy152146@gmail.com', 'mypassword@123')
+    smtp.login('dummy152146@gmail.com', 'orcldiftzpkdkocu')
     smtp.send_message(email)
