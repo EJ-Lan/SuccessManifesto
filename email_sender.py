@@ -8,7 +8,7 @@ import datetime
 # Check if it's time to send the yearly email
 def should_send_yearly_email():
     # Replace 'yyyy-mm-dd' with the date of the last email sent
-    last_email_date = datetime.date.fromisoformat('yyyy-mm-dd')
+    last_email_date = datetime.date.fromisoformat('2020-01-01')
     current_date = datetime.date.today()
     # Set the interval for yearly emails (365 days)
     interval = datetime.timedelta(days=365)
