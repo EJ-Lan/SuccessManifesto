@@ -1,5 +1,5 @@
 # SuccessManifesto
-This is a Python Scripting Project Which Sends An Email Reminder Yearly To Keep Track Of Goals 
+This is a Python scripting project which sends an email reminder yearly to keep track of goals 
 
 ### How To Use
 * Make sure to change the "yyy-mm-dd"
