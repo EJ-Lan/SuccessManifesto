@@ -2,6 +2,7 @@
 This is a Python Scripting Project Which Sends An Email Reminder Yearly To Keep Track Of Goals 
 
 ### How To Use
+* Make sure to change the "yyy-mm-dd"
 * Change the email `dummy152146@gmail.com` to whatever email you want to use and beside it the password
 * If you are using gmail make sure in the password section you use a generated app password instead of the gmail password
 * make sure to substitue "Your Name" for any name that you want
