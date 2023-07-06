@@ -1,8 +1,6 @@
 # SuccessManifesto
 This is a Python Scripting Project Which Sends An Email Reminder Yearly To Keep Track Of Goals 
 
-## This Message Is To Be Used For Any User Just Fill In The Blanks
-
 ### Message
 Subject: Success Manifesto
 
