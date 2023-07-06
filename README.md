@@ -1,6 +1,10 @@
 # SuccessManifesto
 This is a Python Scripting Project Which Sends An Email Reminder Yearly To Keep Track Of Goals 
 
+### How To Use
+* Change the email `dummy152146@gmail.com` to whatever email you want to use and beside it the password
+* If you are using gmail make sure in the password section you use a generated app password instead of the gmail password
+
 ### Message
 Subject: Success Manifesto
 
